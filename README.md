@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I'm a DevOps Engineer looking to sharpen up my skills. 
-Using the [Learn to Cloud](https://skills.github.com/#first-day-on-github) as a guide.
+Using the [Learn to Cloud](https://learntocloud.guide/) as a guide.
 
 LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/geraldine-torres/)
